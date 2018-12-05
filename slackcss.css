@@ -1,4 +1,4 @@
-.c-avatar__image[src*="https://ca.slack-edge.com/T08UQ3NSJ-U3NBF6SKB-92dff00c701b-48"] {
+img[src*="https://ca.slack-edge.com/T08UQ3NSJ-U3NBF6SKB-92dff00c701b-48"] {
 	content:url("https://i.pinimg.com/236x/ba/e8/23/bae82312ee7e96e22987459541037281--kermit-face-kermit-the-frog.jpg");
     /*background: url(https://upload.wikimedia.org/wikipedia/commons/0/08/South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg) no-repeat;
     display: block;
